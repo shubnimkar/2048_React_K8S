@@ -1,5 +1,7 @@
 ![2048 K8S](https://github.com/shubnimkar/2048_React_K8S/assets/46809421/cc9befdb-6e10-4408-9d7c-6f2281a78c9b)
 
+Find complete steps here in my blog [DevSecOps: Deploying the 2048 Game on Docker and Kubernetes with Jenkins CI/CD](https://medium.com/@shubnimkar/devsecops-deploying-the-2048-game-on-docker-and-kubernetes-with-jenkins-ci-cd-675a6fe5caa7)
+
 ## Steps
 
 1. Launch an Ubuntu(20.04) AWS t2.large / GCP e2-highcpu-8
